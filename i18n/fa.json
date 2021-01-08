@@ -1,15 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
+			"Alifakoor",
+			"Alirezaaa",
+			"Amirsara",
 			"Armin1392",
 			"Mjbmr",
-			"ZxxZxxZ",
-			"Reza1615",
-			"Alirezaaa",
+			"Nbi",
 			"Ommmmid",
-			"Alifakoor",
-			"Amirsara",
-			"Nbi"
+			"Reza1615",
+			"ZxxZxxZ"
 		]
 	},
 	"sesp-desc": "افزودن برخی خواص ویژه اضافی به همه صفحات",
@@ -23,8 +23,6 @@
 	"sesp-property-subpages": "زیرصفحه",
 	"sesp-property-revisions": "تعداد نسخه‌ها",
 	"sesp-property-talk-revisions": "تعداد بازبینی‌های صفحهٔ گفتگو",
-	"sesp-property-mimetype": "نوع مایم",
-	"sesp-property-mediatype": "نوع رسانه",
 	"sesp-property-shorturl": "نشانی کوتاه",
 	"sesp-property-approved-rev": "نسخهٔ تأییدشده",
 	"sesp-property-user-registration-date": "تاریخ ثبت‌نام کاربر",

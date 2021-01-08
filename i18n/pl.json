@@ -2,13 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Chrumps",
-			"Jacenty359",
-			"Devwebtel",
-			"InternerowyGołąb",
 			"DeRudySoulStorm",
+			"Devwebtel",
 			"GlutPaprykarz",
-			"Railfail536",
-			"Rail"
+			"InternerowyGołąb",
+			"Jacenty359",
+			"Rail",
+			"Railfail536"
 		]
 	},
 	"sesp-desc": "Dodaje kilka dodatkowych specjalnych właściwości do wszystkich stron",
@@ -23,8 +23,6 @@
 	"sesp-property-subpages": "Podstrona",
 	"sesp-property-revisions": "Liczba wersji",
 	"sesp-property-talk-revisions": "Liczba edycji strony dyskusji",
-	"sesp-property-mimetype": "Typ MIME",
-	"sesp-property-mediatype": "Typ medium",
 	"sesp-property-shorturl": "Krótki URL",
 	"sesp-property-approved-rev": "Zatwierdzona wersja",
 	"sesp-property-approved-by": "Zatwierdzono przez",
